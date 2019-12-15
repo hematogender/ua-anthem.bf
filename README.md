@@ -15,7 +15,7 @@ because I have things to do in life besides implementing yet another brainfuck i
 
 [brainfuck](https://pypi.org/project/brainfuck/):
 
-> pip install brainfuck
+`$ pip install brainfuck` 
 
 ---
 
