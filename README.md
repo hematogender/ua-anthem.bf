@@ -9,7 +9,7 @@
 - `interpreter.py` reads brainfuck code from `anthem.bf` and interpretes it (i.e. prints the anthem) using the brainfuck module from PyPi **<sup>1</sup>**
 
 **<sup>1<sup/>** 
-because I have things to do in life besides implementing yet another brainfuck interprete <sup>*actually I'm too dumb*<sup/>
+because I have things to do in life besides implementing yet another brainfuck interpreter <sup>*actually I'm too dumb*<sup/>
 
 ## Dependencies
 
